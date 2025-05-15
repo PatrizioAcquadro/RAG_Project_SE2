@@ -1,0 +1,36 @@
+# Core ML and Transformers
+torch>=2.0.0
+transformers>=4.38.0
+sentence-transformers>=2.2.2
+
+# Retrieval and Indexing
+faiss-cpu>=1.7.4
+
+# Classic ML & Utils
+scikit-learn>=1.2.0
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Evaluation metrics
+nltk>=3.8.0
+codebleu==0.1.0  # Optional: add if using CodeBLEU, else comment/remove
+
+# Experimentation, notebooks and visualization
+jupyter
+matplotlib>=3.7.0
+
+# API and automation (optional, for extensibility)
+fastapi
+uvicorn
+
+# Testing and Quality
+pytest
+black
+flake8
+
+# Miscellaneous utilities
+python-dotenv
+requests
+
+# Since we used Colab
+google-colab
