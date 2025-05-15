@@ -135,7 +135,14 @@ bash start_lm_server.sh
 * Continuous Integration: Automated tests are run on every PR via GitHub Actions.
 * Engineering Standards: PEP8 compliance, modular code, and reproducible experiments are enforced.
 
+
 ---
+
+## Authors
+
+* Acquadro Patrizio patrizio.acquadro@mail.polimi.it
+* Colosio Giacomo giacomo.colosio@mail.polimi.it
+* Drugman Tito Nicola titonicola.drugman@mail.polimi.it
 
 ## Supervisors
 
@@ -143,14 +150,6 @@ bash start_lm_server.sh
 * Prof. Quattrocchi Giovanni Ennio, Politecnico di Milano
 * Prof. Vincenzo Scotti, Politecnico di Milano
 * Prof. Davide Yi Xian Hu, Politecnico di Milano
-
----
-
-## Authors
-
-* \[Acquadro Patrizio] (\[patrizio.acquadro@mail.polimi.it])
-* \[Colosio Giacomo] (\[giacomo.colosio@mail.polimi.it])
-* \[Drugman Tito Nicola] (\[titonicola.drugman@mail.polimi.it])
 
 ---
 
@@ -162,6 +161,6 @@ This project is released under the MIT License (see LICENSE file).
 
 ## Contact
 
-For academic collaboration or technical questions, please open an Issue or contact the project lead at \[patrizio.acquadro@mail.polimi.it].
+For academic collaboration or technical questions, please open an Issue or contact the project lead at patrizio.acquadro@mail.polimi.it.
 
 Politecnico di Milano – Engineering, Research, and AI Innovation
