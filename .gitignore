@@ -1,0 +1,67 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data, models, outputs (never version raw data)
+data/
+*.h5
+*.pt
+*.pkl
+*.ckpt
+*.npz
+*.npy
+*.csv
+*.tsv
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE/workspace configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Docker and build
+docker/*.pyc
+docker/__pycache__/
+*.dockerfile
+
+# Test/output artifacts
+htmlcov/
+coverage.xml
+*.cover
+*.egg-info/
+dist/
+build/
+
+# Reports, latex, temp
+*.pdf
+*.aux
+*.out
+*.toc
+
+# Jupyter nbconvert export
+*.nbconvert.ipynb
+
+# GitHub Actions / CI/CD
+.github/workflows/*.pyc
+.github/__pycache__/
+
+# Miscellaneous
+*.bak
+*.swp
